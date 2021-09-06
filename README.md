@@ -19,10 +19,10 @@
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/igorbavand">
         <img src="https://i.ibb.co/98kX4CQ/igor.jpg" width="100px;" /><br>
         <sub>
-          <b>IGOR NARDENIO</b>
+          <a href="https://github.com/igorbavand">IGOR NARDENIO</a>
         </sub>
       </a>
     </td>
